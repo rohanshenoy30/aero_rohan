@@ -46,7 +46,7 @@ Projects focusing on ML techniques, particularly CNNs, for advanced detection an
 
 ---
 
-## Tools and Libraries Used
-- **OpenCV:**For image and video processing.
-- **TensorFlow/Keras:** For building and training CNN models.
--**NumPy, Pandas and Matplotlib: ** For data manipulation and visualization
+## Tools and Libraries Used  
+- **OpenCV:** For image and video processing.  
+- **TensorFlow/Keras:** For building and training CNN models.  
+- **NumPy, Pandas, and Matplotlib:** For data manipulation and visualization.  
